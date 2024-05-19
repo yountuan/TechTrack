@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     # libraries
     'rest_framework',
     'rest_framework.authtoken',
+    'drf_yasg',
     # apps
     'api',
 ]
