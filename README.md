@@ -31,20 +31,21 @@ TechTrack needs a RESTful API to manage technical equipment data. The API will h
 ## Screenshots
 
 1. **API Endpoints Overview:**
-   ![API Endpoints Overview](link_to_screenshot_1)
+   ![API Endpoints Overview](screenshots/Screenshot 2024-05-20 at 03.13.04.png)
+   ![API Endpoints Overview](screenshots/Screenshot 2024-05-20 at 03.13.14.png)
+   ![API Endpoints Overview](screenshots/Screenshot 2024-05-20 at 03.13.26.png)
+   ![API Endpoints Overview](screenshots/Screenshot 2024-05-20 at 03.13.29.png)
 
 2. **Equipment Creation:**
    ![Equipment Creation](link_to_screenshot_2)
 
 3. **Database Schema:**
-   ![Database Schema](link_to_screenshot_3)
+   ![Database Schema](screenshots/Screenshot 2024-05-20 at 02.33.05.png)
 
 4. **Error Handling:**
    ![Error Handling](link_to_screenshot_4)
 
-## Video Description
-
-[![Video Description](link_to_video_thumbnail)](link_to_video)
+## Video Presentation
 
 Video Presentation:
 For a detailed demonstration of the project, please refer to the video linked below. This video walks through the setup, key features, and functionalities of the API:
