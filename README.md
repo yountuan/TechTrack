@@ -20,7 +20,7 @@ TechTrack needs a RESTful API to manage technical equipment data. The API will h
 
 - Must use Django REST Framework and PostgreSQL
 
-## FAQs
+## Q&A
 
 - **Security:** Access Tokens for authentication and role-based access.
 - **Performance:** Data caching, query optimization, and horizontal scaling.
@@ -36,23 +36,17 @@ TechTrack needs a RESTful API to manage technical equipment data. The API will h
    ![API Endpoints Overview](/screenshots/Screenshot2024-05-20at03.13.26.png)
    ![API Endpoints Overview](/screenshots/Screenshot2024-05-20at03.13.29.png)
 
-2. **Equipment Creation:**
-   ![Equipment Creation](link_to_screenshot_2)
-
 3. **Database Schema:**
-   ![Database Schema](screenshots/Screenshot 2024-05-20 at 02.33.05.png)
-
-4. **Error Handling:**
-   ![Error Handling](link_to_screenshot_4)
+   ![Database Schema](/screenshots/Screenshot2024-05-20at02.33.05.png)
 
 ## Video Presentation
 
 For a detailed demonstration of the project, please refer to the video linked below. This video walks through the setup, key features, and functionalities of the API:
 https://drive.google.com/drive/folders/1BR_qLzhz5P1JVFfpLAKOqZHvO-NuY4hR?usp=sharing
 
-## Deploy on Free Cloud Server (Render): 
+## Deploy on Free Cloud Server (Render):
 (Since it's a free server, it could work very slow. Sorry for that T_T)
 https://store-8r6h.onrender.com
-Credentials to log in to admin panel are 
-'admin' for username and 
+Credentials to log in to admin panel are
+'admin' for username and
 '1' for password.
