@@ -31,10 +31,10 @@ TechTrack needs a RESTful API to manage technical equipment data. The API will h
 ## Screenshots
 
 1. **API Endpoints Overview:**
-   ![API Endpoints Overview]("/screenshots/Screenshot 2024-05-20 at 03.13.04.png")
-   ![API Endpoints Overview]("/screenshots/Screenshot 2024-05-20 at 03.13.14.png")
-   ![API Endpoints Overview]("/screenshots/Screenshot 2024-05-20 at 03.13.26.png")
-   ![API Endpoints Overview]("/screenshots/Screenshot 2024-05-20 at 03.13.29.png")
+   ![API Endpoints Overview](/screenshots/Screenshot 2024-05-20 at 03.13.04.png)
+   ![API Endpoints Overview](/screenshots/Screenshot 2024-05-20 at 03.13.14.png)
+   ![API Endpoints Overview](/screenshots/Screenshot 2024-05-20 at 03.13.26.png)
+   ![API Endpoints Overview](/screenshots/Screenshot 2024-05-20 at 03.13.29.png)
 
 2. **Equipment Creation:**
    ![Equipment Creation](link_to_screenshot_2)
