@@ -1,56 +1,50 @@
 # TechTrack_app
+# Task: RESTful API for Equipment Monitoring
 
-Task: Developing a RESTful API for Equipment Monitoring and Management
+**Customer:** TechTrack
 
-Customer company: TechTrack
+## Task Description
 
-Description of the task:
+TechTrack needs a RESTful API to manage technical equipment data. The API will handle CRUD operations for equipment, data readings, and alerts, using Django REST Framework and PostgreSQL.
 
-TechTrack develops a platform for monitoring and managing technical equipment such as industrial robots, manufacturing equipment, quality control systems, etc. The company is facing challenges in managing data on the technical condition of their equipment.
+## Requirements
 
-Your task is to develop a RESTful API using Django REST Framework and PostgreSQL to manage a list of equipment, data readings, and alerts. The API should allow users to be created, read, updated, and deleted. Basic authentication and authorization must be implemented to secure the API. The system should handle simultaneous requests from multiple clients and ensure high data availability.
+- **API Documentation:** Swagger/OpenAPI
+- **HTTP Methods:** GET, POST, PUT, DELETE
+- **Authentication:** Access Tokens
+- **Error Handling:** Appropriate HTTP statuses and messages
+- **Data Format:** JSON
+- **Data Consistency:** Transaction mechanisms
 
-Additional requirements:
+## Restrictions
 
-The API should be well documented using Swagger/OpenAPI.
-Provide support for standard HTTP methods (GET, POST, PUT, DELETE) for each resource.
-Implement error handling and return appropriate HTTP statuses and messages.
-Restrictions:
+- Must use Django REST Framework and PostgreSQL
 
-The API must use Django REST Framework and PostgreSQL.
-The system should ensure data consistency across parallel queries using transaction mechanisms.
-The API should use JSON format for data exchange between client and server.
-Answers to possible questions:
+## FAQs
 
-How will you ensure the security of your API?
+- **Security:** Access Tokens for authentication and role-based access.
+- **Performance:** Data caching, query optimization, and horizontal scaling.
+- **Testing:** Unit and integration testing using unittest.
+- **Data Format:** JSON for data exchange.
+- **Data Consistency:** Database transactions for integrity.
 
-We will use Access Tokens to authenticate users and restrict access based on roles and permissions.
-What measures will you take to ensure the performance of your API?
+## Screenshots
 
-We will use data caching and database query optimization. Additionally, the application can be scaled horizontally to handle large volumes of requests.
-How will you test your API?
+1. **API Endpoints Overview:**
+   ![API Endpoints Overview](link_to_screenshot_1)
 
-We will write unit tests using tools like unittest for Python to test core functionality. Integration testing will also be conducted to check how the API interacts with other system components.
-What data formats will you use to pass information through the API?
+2. **Equipment Creation:**
+   ![Equipment Creation](link_to_screenshot_2)
 
-JSON format will be used to exchange data between client and server as it is easy to read and supported by many programming languages.
-How will you ensure data consistency across parallel queries?
+3. **Database Schema:**
+   ![Database Schema](link_to_screenshot_3)
 
-We will use transaction mechanisms in the database to ensure data integrity during create, update, and delete operations.
+4. **Error Handling:**
+   ![Error Handling](link_to_screenshot_4)
 
-Screenshots:
+## Video Description
 
-API Endpoints Overview:
-
-Successful Equipment Creation:
-
-Database Schema:
-
-Error Handling Example:
-
-Video description of the work:
-
-For a detailed demonstration of the project, please refer to the video linked below. This video walks through the setup, key features, and functionalities of the API:
+[![Video Description](link_to_video_thumbnail)](link_to_video)
 
 Video Presentation:
 For a detailed demonstration of the project, please refer to the video linked below. This video walks through the setup, key features, and functionalities of the API:
