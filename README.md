@@ -31,10 +31,10 @@ TechTrack needs a RESTful API to manage technical equipment data. The API will h
 ## Screenshots
 
 1. **API Endpoints Overview:**
-   ![API Endpoints Overview](screenshots/Screenshot 2024-05-20 at 03.13.04.png)
-   ![API Endpoints Overview](screenshots/Screenshot 2024-05-20 at 03.13.14.png)
-   ![API Endpoints Overview](screenshots/Screenshot 2024-05-20 at 03.13.26.png)
-   ![API Endpoints Overview](screenshots/Screenshot 2024-05-20 at 03.13.29.png)
+   ![API Endpoints Overview]("/screenshots/Screenshot 2024-05-20 at 03.13.04.png")
+   ![API Endpoints Overview]("/screenshots/Screenshot 2024-05-20 at 03.13.14.png")
+   ![API Endpoints Overview]("/screenshots/Screenshot 2024-05-20 at 03.13.26.png")
+   ![API Endpoints Overview]("/screenshots/Screenshot 2024-05-20 at 03.13.29.png")
 
 2. **Equipment Creation:**
    ![Equipment Creation](link_to_screenshot_2)
@@ -47,12 +47,12 @@ TechTrack needs a RESTful API to manage technical equipment data. The API will h
 
 ## Video Presentation
 
-Video Presentation:
 For a detailed demonstration of the project, please refer to the video linked below. This video walks through the setup, key features, and functionalities of the API:
 https://drive.google.com/drive/folders/1BR_qLzhz5P1JVFfpLAKOqZHvO-NuY4hR?usp=sharing
 
-Deploy on Free Cloud Server (Render): https://store-8r6h.onrender.com
+## Deploy on Free Cloud Server (Render): 
 (Since it's a free server, it could work very slow. Sorry for that T_T)
+https://store-8r6h.onrender.com
 Credentials to log in to admin panel are 
 'admin' for username and 
 '1' for password.
