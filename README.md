@@ -18,7 +18,7 @@ TechTrack needs a RESTful API to manage technical equipment data. The API will h
 
 ## Restrictions
 
-- Must use Django REST Framework and PostgreSQL
+- Must use Django REST Framework and PostgreSQL for Backend Track.
 
 ## Q&A
 
@@ -35,6 +35,9 @@ TechTrack needs a RESTful API to manage technical equipment data. The API will h
    ![API Endpoints Overview](/screenshots/Screenshot2024-05-20at03.13.14.png)
    ![API Endpoints Overview](/screenshots/Screenshot2024-05-20at03.13.26.png)
    ![API Endpoints Overview](/screenshots/Screenshot2024-05-20at03.13.29.png)
+
+3. **Project configs:**
+   ![Docker-compose](/screenshots/Screenshot2024-05-22at13.10.51.png)
 
 3. **Database Schema:**
    ![Database Schema](/screenshots/Screenshot2024-05-20at02.33.05.png)
